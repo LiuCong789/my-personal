@@ -1,7 +1,10 @@
-.header {
+/* .header {
   height: 100vh;
   padding-top: 7rem;
   overflow: hidden;
+} */
+.header__top {
+  height: 7rem;
 }
 
 .header__container {
@@ -41,9 +44,9 @@
   background: linear-gradient(var(--color-primary), transparent);
   width: 28rem;
   height: 30rem;
-  position: absolute;
-  left: calc(50% - 14rem);
-  margin-top: 4rem;
+  /* position: absolute;
+  left: calc(50% - 14rem); */
+  margin: 4rem auto 0 auto;
   border-radius: 12rem 12rem 0 0;
   overflow: hidden;
 }

@@ -77,6 +77,10 @@
     height: 100vh;
   }
 
+  .header__container .me {
+    width: 100%;
+  }
+
   .header__socials,
   .scroll__down {
     display: none;

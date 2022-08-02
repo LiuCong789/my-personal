@@ -18,7 +18,7 @@ const data = [
   {
     id: 2,
     image: IMG2,
-    title: "Bankist Demo",
+    title: "Bankist",
     host: "https://bank-congliu.netlify.app/",
   },
   {
@@ -36,7 +36,7 @@ const data = [
   {
     id: 5,
     image: IMG5,
-    title: "Expense Tracker",
+    title: "Expense Tracker (React)",
     host: "https://etracker-congliu.netlify.app/",
   },
   {

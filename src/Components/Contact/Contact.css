@@ -14,10 +14,15 @@
 .contact__option {
   background-color: var(--color-bg-variant);
   padding: 1.2rem;
+  margin-bottom: 0.3rem;
   border-radius: 1.2rem;
   text-align: center;
   border: 1px solid transparent;
   transition: var(--transition);
+}
+
+.contact__option:last-child {
+  margin-bottom: 0;
 }
 
 .contact__option:hover {

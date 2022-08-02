@@ -91,7 +91,11 @@
 
   .experience__container > div {
     width: 100%;
-    padding: 2rem 1rem;
+    padding: 2rem 1.5rem;
     margin: 0 auto;
+  }
+
+  .experience__career {
+    padding-left: 0.8rem;
   }
 }

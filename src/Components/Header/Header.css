@@ -7,6 +7,10 @@
   height: 7rem;
 }
 
+.header__top audio {
+  margin: 1rem 0 0 1rem;
+}
+
 .header__container {
   text-align: center;
   height: 100%;
@@ -29,7 +33,7 @@
   gap: 0.8rem;
   position: absolute;
   left: 0;
-  bottom: 3rem;
+  bottom: 15rem;
 }
 
 .header__socials::after {

@@ -3,11 +3,17 @@ import "./Header.css";
 import CTA from "./CTA";
 import hero from "../../Assets/hero-2.png";
 import HeaderSocials from "./HeaderSocials";
+import mp3 from "../../Assets/melancholy.mp3";
 
 const Header = () => {
   return (
     <header className="header">
-      <div className="header__top"></div>
+      <div className="header__top">
+        <audio controls autoplay>
+          <source src={mp3} type="audio/mpeg" />
+          Your browser does not support the audio element.
+        </audio>
+      </div>
       <div className="container header__container">
         <h4>Hello, I'm</h4>
         <h1>Cody Liu</h1>

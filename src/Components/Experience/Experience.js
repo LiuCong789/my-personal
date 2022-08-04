@@ -72,6 +72,7 @@ const Experience = () => {
 
         <div className="experience__history">
           <h3>Career History</h3>
+
           <article className="experience__career">
             <div className="experience__timeline">
               <BsPatchCheckFill className="experience__career-icon" />

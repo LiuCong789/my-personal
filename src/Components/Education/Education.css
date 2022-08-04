@@ -24,6 +24,10 @@
   margin: 0 auto 1rem;
 }
 
+.education__qualification img {
+  /* width: 5rem; */
+}
+
 .education small {
   color: var(--color-light);
   display: block;

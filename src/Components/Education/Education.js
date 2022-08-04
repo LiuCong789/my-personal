@@ -3,6 +3,7 @@ import "./Education.css";
 import LOGO1 from "../../Assets/logo-udemy.svg";
 import LOGO2 from "../../Assets/logo-niet.png";
 import LOGO3 from "../../Assets/logo-usyd.svg";
+import LOGO4 from "../../Assets/logo-reaa2.png";
 import { Pagination, Navigation } from "swiper";
 import { Swiper, SwiperSlide } from "swiper/react";
 
@@ -36,6 +37,11 @@ const data = [
     logo: LOGO3,
     name: "Bachelor of Commerce (Accounting)",
     institution: "The University of Sydney",
+  },
+  {
+    logo: LOGO4,
+    name: "Certificate IV in Finance & Mortgage Broking",
+    institution: "Real Estate Academy Australia",
   },
 ];
 

@@ -1,5 +1,6 @@
 import React from "react";
 import "./Portfolio.css";
+import IMG0 from "../../Assets/portfolio0.png";
 import IMG1 from "../../Assets/portfolio1.png";
 import IMG2 from "../../Assets/portfolio2.png";
 import IMG3 from "../../Assets/portfolio3.png";
@@ -9,6 +10,12 @@ import IMG6 from "../../Assets/portfolio6.png";
 import IMG7 from "../../Assets/portfolio7.png";
 
 const data = [
+  {
+    id: 0,
+    image: IMG0,
+    title: "Tasbulk",
+    host: "https://tasbulk.dev.ionata.com/",
+  },
   {
     id: 1,
     image: IMG1,

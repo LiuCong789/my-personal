@@ -20,12 +20,12 @@ function About() {
             <article className="about__card">
               <FaAward className="about__icon" />
               <h4>Experience</h4>
-              <small>1 year as freelancer</small>
+              <small>1 year as Junior Developer</small>
             </article>
             <article className="about__card">
               <GiSkills className="about__icon" />
               <h4>Skills</h4>
-              <small>JavaScript, React</small>
+              <small>JavaScript, React, PHP</small>
             </article>
             <article className="about__card">
               <BiMoviePlay className="about__icon" />

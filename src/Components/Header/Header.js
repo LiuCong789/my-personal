@@ -1,7 +1,7 @@
 import React from "react";
 import "./Header.css";
 import CTA from "./CTA";
-import hero from "../../Assets/hero-2.png";
+import hero from "../../Assets/profile-cody-transparent.png";
 import HeaderSocials from "./HeaderSocials";
 import mp3 from "../../Assets/melancholy.mp3";
 

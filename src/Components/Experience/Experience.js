@@ -35,7 +35,7 @@ const Experience = () => {
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon" />
               <div>
-                <h4>jQuery</h4>
+                <h4>Scss</h4>
                 <small className="text-light">Experienced</small>
               </div>
             </article>
@@ -56,6 +56,20 @@ const Experience = () => {
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon" />
               <div>
+                <h4>NPM</h4>
+                <small className="text-light">Experienced</small>
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsPatchCheckFill className="experience__details-icon" />
+              <div>
+                <h4>Docker</h4>
+                <small className="text-light">Intermediate</small>
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsPatchCheckFill className="experience__details-icon" />
+              <div>
                 <h4>Git & GitHub</h4>
                 <small className="text-light">Intermediate</small>
               </div>
@@ -63,8 +77,8 @@ const Experience = () => {
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon" />
               <div>
-                <h4>cPanel</h4>
-                <small className="text-light">Experienced</small>
+                <h4>AWS</h4>
+                <small className="text-light">Beginner</small>
               </div>
             </article>
           </div>
@@ -73,6 +87,15 @@ const Experience = () => {
         <div className="experience__history">
           <h3>Career History</h3>
 
+          <article className="experience__career">
+            <div className="experience__timeline">
+              <BsPatchCheckFill className="experience__career-icon" />
+            </div>
+            <div>
+              <h4>Junior Front End Developer</h4>
+              <small className="text-light">2022 - 2023</small>
+            </div>
+          </article>
           <article className="experience__career">
             <div className="experience__timeline">
               <BsPatchCheckFill className="experience__career-icon" />

@@ -1,26 +1,27 @@
 {
   "files": {
-    "main.css": "/my-personal/static/css/main.7635f197.css",
-    "main.js": "/my-personal/static/js/main.351091c5.js",
+    "main.css": "/my-personal/static/css/main.bab659a3.css",
+    "main.js": "/my-personal/static/js/main.712e2780.js",
     "static/media/melancholy.mp3": "/my-personal/static/media/melancholy.bc5e6cd2e41cf30358ef.mp3",
-    "static/media/hero-2.png": "/my-personal/static/media/hero-2.58f65de3f1fb95b895ad.png",
+    "static/media/profile-cody-transparent.png": "/my-personal/static/media/profile-cody-transparent.9c6a0ba4ea0fdb84c33f.png",
     "static/media/portfolio1.png": "/my-personal/static/media/portfolio1.49df456a6fe18da82a8e.png",
     "static/media/about.jpg": "/my-personal/static/media/about.43c17fb959d085f4a968.jpg",
     "static/media/portfolio4.png": "/my-personal/static/media/portfolio4.d35d162423b630303a55.png",
     "static/media/portfolio7.png": "/my-personal/static/media/portfolio7.ed99016ccd70cc87d223.png",
-    "static/media/Resume_frontend-developer_Cody_LIU.pdf": "/my-personal/static/media/Resume_frontend-developer_Cody_LIU.eeec44b4aa87e59b50f3.pdf",
+    "static/media/Resume-frontend-cody-liu.pdf": "/my-personal/static/media/Resume-frontend-cody-liu.ce53aa95bf00f9f15d36.pdf",
     "static/media/portfolio2.png": "/my-personal/static/media/portfolio2.be7f6cde3eddffb4f2f7.png",
     "static/media/portfolio3.png": "/my-personal/static/media/portfolio3.7845ecc19c56a003b269.png",
+    "static/media/portfolio0.png": "/my-personal/static/media/portfolio0.74005343ebc90f7e2161.png",
     "static/media/portfolio5.png": "/my-personal/static/media/portfolio5.0c83320ea56459bb1112.png",
     "static/media/logo-usyd.svg": "/my-personal/static/media/logo-usyd.ffec8b81fb64a55bb1305a7ac51cafca.svg",
     "static/media/logo-niet.png": "/my-personal/static/media/logo-niet.8c621ce128bfef2548d6.png",
     "static/media/logo-udemy.svg": "/my-personal/static/media/logo-udemy.ac64b9eb547dc3795f53173b290203d9.svg",
     "index.html": "/my-personal/index.html",
-    "main.7635f197.css.map": "/my-personal/static/css/main.7635f197.css.map",
-    "main.351091c5.js.map": "/my-personal/static/js/main.351091c5.js.map"
+    "main.bab659a3.css.map": "/my-personal/static/css/main.bab659a3.css.map",
+    "main.712e2780.js.map": "/my-personal/static/js/main.712e2780.js.map"
   },
   "entrypoints": [
-    "static/css/main.7635f197.css",
-    "static/js/main.351091c5.js"
+    "static/css/main.bab659a3.css",
+    "static/js/main.712e2780.js"
   ]
 }

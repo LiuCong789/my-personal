@@ -14,7 +14,7 @@ const data = [
     id: 0,
     image: IMG0,
     title: "Tasbulk",
-    host: "https://tasbulk.dev.ionata.com/",
+    host: "https://tasbulk.com.au/",
   },
   {
     id: 1,

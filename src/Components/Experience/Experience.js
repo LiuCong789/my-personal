@@ -92,7 +92,7 @@ const Experience = () => {
               <BsPatchCheckFill className="experience__career-icon" />
             </div>
             <div>
-              <h4>Junior Front End Developer</h4>
+              <h4>Front End Developer</h4>
               <small className="text-light">2022 - 2023</small>
             </div>
           </article>

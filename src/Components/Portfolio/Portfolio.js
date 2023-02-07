@@ -8,13 +8,14 @@ import IMG4 from "../../Assets/portfolio4.png";
 import IMG5 from "../../Assets/portfolio5.png";
 import IMG6 from "../../Assets/portfolio6.png";
 import IMG7 from "../../Assets/portfolio7.png";
+import IMG10 from "../../Assets/portfolio10.png";
 
 const data = [
   {
-    id: 0,
-    image: IMG0,
-    title: "Tasbulk",
-    host: "https://tasbulk.com.au/",
+    id: 10,
+    image: IMG10,
+    title: "ShareFact (Full-stack App)",
+    host: "https://todayilearned-cody.netlify.app/",
   },
   {
     id: 1,
@@ -23,28 +24,28 @@ const data = [
     host: "https://food-congliu.netlify.app/",
   },
   {
+    id: 0,
+    image: IMG0,
+    title: "TasBulk (WordPress)",
+    host: "https://tasbulk.com.au/",
+  },
+  {
+    id: 3,
+    image: IMG3,
+    title: "Accounting Firm",
+    host: "http://www.accotaxadvisory.com.au/",
+  },
+  {
     id: 2,
     image: IMG2,
     title: "Bankist",
     host: "https://bank-congliu.netlify.app/",
   },
   {
-    id: 3,
-    image: IMG3,
-    title: "An Accounting Firm",
-    host: "http://www.accotaxadvisory.com.au/",
-  },
-  {
     id: 4,
     image: IMG4,
     title: "Nature Tours",
     host: "https://natours-congliu.netlify.app/",
-  },
-  {
-    id: 5,
-    image: IMG5,
-    title: "Expense Tracker (React)",
-    host: "https://etracker-congliu.netlify.app/",
   },
   {
     id: 6,

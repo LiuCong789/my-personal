@@ -35,11 +35,10 @@ function About() {
           </div>
 
           <p>
-            Thrilled to establish a long term career in software development, I
-            am a challenge seeker and active leaner with good understanding of
-            web development. The hands-on experience in a wide variety of
-            industries also makes me capable and flexible in a fast-pacing
-            environment.
+            Motivated and results-oriented Web Developer with hands-on
+            experience creating visually appealing and user-friendly websites
+            and web applications. Always keep up-to-date with cutting-edge
+            technology such as OpenAI's ChatGPT.
           </p>
 
           <a href="#contact" className="btn btn-primary">

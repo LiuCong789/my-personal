@@ -1,28 +1,28 @@
 {
   "files": {
     "main.css": "/my-personal/static/css/main.6ab77edf.css",
-    "main.js": "/my-personal/static/js/main.e87b8fbb.js",
-    "static/media/melancholy.mp3": "/my-personal/static/media/melancholy.bc5e6cd2e41cf30358ef.mp3",
+    "main.js": "/my-personal/static/js/main.55b1207f.js",
+    "static/media/summer.mp3": "/my-personal/static/media/summer.b671b40e933e9a9182c9.mp3",
     "static/media/profile-cody-transparent.png": "/my-personal/static/media/profile-cody-transparent.9c6a0ba4ea0fdb84c33f.png",
-    "static/media/portfolio1.png": "/my-personal/static/media/portfolio1.49df456a6fe18da82a8e.png",
     "static/media/about.jpg": "/my-personal/static/media/about.43c17fb959d085f4a968.jpg",
-    "static/media/resume-frontend-cody.pdf": "/my-personal/static/media/resume-frontend-cody.a74374a2e08bc461b27e.pdf",
-    "static/media/portfolio4.png": "/my-personal/static/media/portfolio4.d35d162423b630303a55.png",
-    "static/media/portfolio7.png": "/my-personal/static/media/portfolio7.ed99016ccd70cc87d223.png",
-    "static/media/portfolio2.png": "/my-personal/static/media/portfolio2.be7f6cde3eddffb4f2f7.png",
-    "static/media/portfolio3.png": "/my-personal/static/media/portfolio3.7845ecc19c56a003b269.png",
-    "static/media/portfolio0.png": "/my-personal/static/media/portfolio0.74005343ebc90f7e2161.png",
-    "static/media/portfolio10.png": "/my-personal/static/media/portfolio10.8facd7727404e5d7aac8.png",
-    "static/media/portfolio5.png": "/my-personal/static/media/portfolio5.0c83320ea56459bb1112.png",
-    "static/media/logo-usyd.svg": "/my-personal/static/media/logo-usyd.ffec8b81fb64a55bb1305a7ac51cafca.svg",
+    "static/media/CV - Cong Liu - IT.pdf": "/my-personal/static/media/CV - Cong Liu - IT.cf44236432d50affd819.pdf",
+    "static/media/portfolio-image-1.jpg": "/my-personal/static/media/portfolio-image-1.219c1dfc9b85d7f933b7.jpg",
+    "static/media/portfolio-image-5.jpg": "/my-personal/static/media/portfolio-image-5.1bf35521281b0799b8b9.jpg",
+    "static/media/portfolio-image-3.jpg": "/my-personal/static/media/portfolio-image-3.e668f631cd600fc44efa.jpg",
+    "static/media/portfolio-image-6.jpg": "/my-personal/static/media/portfolio-image-6.bafa50bc84fd89d013f2.jpg",
+    "static/media/portfolio-image-4.jpg": "/my-personal/static/media/portfolio-image-4.be793d68b38805821b14.jpg",
+    "static/media/portfolio-image-2.jpg": "/my-personal/static/media/portfolio-image-2.01a7ac2cdeb0e6e15b33.jpg",
+    "static/media/portfolio-image-8.jpg": "/my-personal/static/media/portfolio-image-8.5480a0d6339a48810fca.jpg",
+    "static/media/portfolio-image-7.jpg": "/my-personal/static/media/portfolio-image-7.69987b638987e3d2c3fb.jpg",
+    "static/media/logo-usyd.svg": "/my-personal/static/media/logo-usyd.359c45bf5825280898860e6e3dd607ca.svg",
     "static/media/logo-niet.png": "/my-personal/static/media/logo-niet.8c621ce128bfef2548d6.png",
-    "static/media/logo-udemy.svg": "/my-personal/static/media/logo-udemy.ac64b9eb547dc3795f53173b290203d9.svg",
+    "static/media/logo-udemy.svg": "/my-personal/static/media/logo-udemy.83ca61464031c0efceb5394719203673.svg",
     "index.html": "/my-personal/index.html",
     "main.6ab77edf.css.map": "/my-personal/static/css/main.6ab77edf.css.map",
-    "main.e87b8fbb.js.map": "/my-personal/static/js/main.e87b8fbb.js.map"
+    "main.55b1207f.js.map": "/my-personal/static/js/main.55b1207f.js.map"
   },
   "entrypoints": [
     "static/css/main.6ab77edf.css",
-    "static/js/main.e87b8fbb.js"
+    "static/js/main.55b1207f.js"
   ]
 }

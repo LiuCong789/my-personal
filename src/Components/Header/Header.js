@@ -3,7 +3,7 @@ import "./Header.css";
 import CTA from "./CTA";
 import hero from "../../Assets/profile-cody-transparent.png";
 import HeaderSocials from "./HeaderSocials";
-import mp3 from "../../Assets/melancholy.mp3";
+import mp3 from "../../Assets/summer.mp3";
 
 const Header = () => {
   return (
@@ -16,8 +16,8 @@ const Header = () => {
       </div>
       <div className="container header__container">
         <h4>Hello, I'm</h4>
-        <h1>Cody Liu</h1>
-        <h4 className="text-light">Frontend Developer</h4>
+        <h1>Cong Liu</h1>
+        <h4 className="text-light">Frontend (React) Developer</h4>
         <CTA />
         <HeaderSocials />
 

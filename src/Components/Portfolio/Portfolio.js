@@ -1,63 +1,62 @@
 import React from "react";
 import "./Portfolio.css";
-import IMG0 from "../../Assets/portfolio0.png";
-import IMG1 from "../../Assets/portfolio1.png";
-import IMG2 from "../../Assets/portfolio2.png";
-import IMG3 from "../../Assets/portfolio3.png";
-import IMG4 from "../../Assets/portfolio4.png";
-import IMG5 from "../../Assets/portfolio5.png";
-import IMG6 from "../../Assets/portfolio6.png";
-import IMG7 from "../../Assets/portfolio7.png";
-import IMG10 from "../../Assets/portfolio10.png";
+import IMG1 from "../../Assets/portfolio-image-1.jpg";
+import IMG2 from "../../Assets/portfolio-image-2.jpg";
+import IMG3 from "../../Assets/portfolio-image-3.jpg";
+import IMG4 from "../../Assets/portfolio-image-4.jpg";
+import IMG5 from "../../Assets/portfolio-image-5.jpg";
+import IMG6 from "../../Assets/portfolio-image-6.jpg";
+import IMG7 from "../../Assets/portfolio-image-7.jpg";
+import IMG8 from "../../Assets/portfolio-image-8.jpg";
 
 const data = [
   {
-    id: 10,
-    image: IMG10,
-    title: "ShareFact (Full-stack App)",
-    host: "https://todayilearned-cody.netlify.app/",
-  },
-  {
     id: 1,
     image: IMG1,
-    title: "Omnifood",
-    host: "https://food-congliu.netlify.app/",
-  },
-  {
-    id: 0,
-    image: IMG0,
     title: "TasBulk (WordPress)",
     host: "https://tasbulk.com.au/",
   },
   {
-    id: 3,
-    image: IMG3,
+    id: 2,
+    image: IMG2,
     title: "Accounting Firm",
     host: "http://www.accotaxadvisory.com.au/",
   },
   {
-    id: 2,
-    image: IMG2,
-    title: "Bankist",
-    host: "https://bank-congliu.netlify.app/",
+    id: 3,
+    image: IMG3,
+    title: "Omnifood",
+    host: "https://food-congliu.netlify.app/",
   },
   {
     id: 4,
     image: IMG4,
-    title: "Nature Tours",
+    title: "Today I learned",
+    host: "https://todayilearned-cody.netlify.app/",
+  },
+  {
+    id: 5,
+    image: IMG5,
+    title: "Natours",
     host: "https://natours-congliu.netlify.app/",
   },
   {
     id: 6,
     image: IMG6,
-    title: "Guess The Number Game",
-    host: "https://guess-congliu.netlify.app/",
+    title: "Drum Kit",
+    host: "https://drum-congliu.netlify.app/",
   },
   {
     id: 7,
     image: IMG7,
-    title: "Drum Kit For Fun",
-    host: "https://drum-congliu.netlify.app/",
+    title: "Guess My Number",
+    host: "https://guess-congliu.netlify.app/",
+  },
+  {
+    id: 8,
+    image: IMG8,
+    title: "My Own Website",
+    host: "https://liucong789.github.io/my-personal/",
   },
 ];
 

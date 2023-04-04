@@ -20,7 +20,7 @@ function About() {
             <article className="about__card">
               <FaAward className="about__icon" />
               <h4>Experience</h4>
-              <small>1 year Junior Developer</small>
+              <small>1 year Front-end Engineer</small>
             </article>
             <article className="about__card">
               <GiSkills className="about__icon" />
@@ -30,15 +30,14 @@ function About() {
             <article className="about__card">
               <BiMoviePlay className="about__icon" />
               <h4>Hobbies</h4>
-              <small>Esports, piano, movie </small>
+              <small>Esports, Piano, Movies </small>
             </article>
           </div>
 
           <p>
-            Motivated and results-oriented Web Developer with hands-on
-            experience creating visually appealing and user-friendly websites
-            and web applications. Always keep up-to-date with cutting-edge
-            technology such as OpenAI's ChatGPT.
+            As a frontend web developer, I craft captivating and responsive user
+            interfaces using HTML, CSS, and JavaScript to provide users with an
+            engaging and seamless experience.
           </p>
 
           <a href="#contact" className="btn btn-primary">

@@ -35,7 +35,7 @@ const Experience = () => {
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon" />
               <div>
-                <h4>SCSS</h4>
+                <h4>Tailwind & Bootstrap</h4>
                 <small className="text-light">Experienced</small>
               </div>
             </article>
@@ -49,13 +49,6 @@ const Experience = () => {
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon" />
               <div>
-                <h4>Bootstrap</h4>
-                <small className="text-light">Experienced</small>
-              </div>
-            </article>
-            <article className="experience__details">
-              <BsPatchCheckFill className="experience__details-icon" />
-              <div>
                 <h4>GitHub</h4>
                 <small className="text-light">Intermediate</small>
               </div>
@@ -63,21 +56,14 @@ const Experience = () => {
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon" />
               <div>
-                <h4>Docker</h4>
-                <small className="text-light">Beginner</small>
+                <h4>REST API</h4>
+                <small className="text-light">Average</small>
               </div>
             </article>
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon" />
               <div>
-                <h4>Supabase</h4>
-                <small className="text-light">Intermediate</small>
-              </div>
-            </article>
-            <article className="experience__details">
-              <BsPatchCheckFill className="experience__details-icon" />
-              <div>
-                <h4>AWS</h4>
+                <h4>Docker & AWS</h4>
                 <small className="text-light">Beginner</small>
               </div>
             </article>
@@ -93,7 +79,16 @@ const Experience = () => {
             </div>
             <div>
               <h4>Front End Developer</h4>
-              <small className="text-light">2022 - 2023</small>
+              <small className="text-light">Oct 2022 - Jan 2023</small>
+            </div>
+          </article>
+          <article className="experience__career">
+            <div className="experience__timeline">
+              <BsPatchCheckFill className="experience__career-icon" />
+            </div>
+            <div>
+              <h4>Freelance Web Developer</h4>
+              <small className="text-light">Aug 2022 - Present</small>
             </div>
           </article>
           <article className="experience__career">
@@ -102,7 +97,7 @@ const Experience = () => {
             </div>
             <div>
               <h4>Educator</h4>
-              <small className="text-light">2021 - 2022</small>
+              <small className="text-light">Jun 2021 - Jun 2022</small>
             </div>
           </article>
           <article className="experience__career">
@@ -110,27 +105,8 @@ const Experience = () => {
               <BsPatchCheckFill className="experience__career-icon" />
             </div>
             <div>
-              <h4>VC/PE Associate</h4>
-              <small className="text-light">2017 - 2019</small>
-            </div>
-          </article>
-          <article className="experience__career">
-            <div className="experience__timeline">
-              <BsPatchCheckFill className="experience__career-icon" />
-            </div>
-            <div>
-              <h4>Executive Assistant</h4>
-              <small className="text-light">2016 - 2017</small>
-            </div>
-          </article>
-          <article className="experience__career">
-            <div className="experience__timeline">
-              <BsPatchCheckFill className="experience__career-icon" />
-              <span></span>
-            </div>
-            <div>
-              <h4>Assistant Accounts Receivable</h4>
-              <small className="text-light">2015</small>
+              <h4>3D Printer Trainer</h4>
+              <small className="text-light">Feb 2016 - May 2019</small>
             </div>
           </article>
         </div>

@@ -15,17 +15,27 @@ import "swiper/css/navigation";
 const data = [
   {
     logo: LOGO1,
+    name: "Certificate of the Complete Web Development Bootcamp",
+    institution: "Udemy",
+  },
+  {
+    logo: LOGO1,
     name: "Certificate of Building Responsive Real-World Websites",
     institution: "Udemy",
   },
   {
     logo: LOGO1,
-    name: "Certificate of the Complete JavaScript Course for 2022",
+    name: "Crash Course: Build a Full-Stack Web App",
     institution: "Udemy",
   },
   {
     logo: LOGO1,
-    name: "Certificate of the Complete 2022 Web Development Bootcamp",
+    name: "Become a WordPress Developer",
+    institution: "Udemy",
+  },
+  {
+    logo: LOGO1,
+    name: "Ultimate AWS Certified Cloud Practitioner",
     institution: "Udemy",
   },
   {
@@ -35,7 +45,7 @@ const data = [
   },
   {
     logo: LOGO3,
-    name: "Bachelor of Commerce (Accounting)",
+    name: "Bachelor of Commerce",
     institution: "The University of Sydney",
   },
   {

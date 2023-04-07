@@ -86,7 +86,7 @@
 /* ============ MEDIA QUERIES (SMALL DEVICES) ============== */
 @media screen and (max-width: 600px) {
   .section__about {
-    margin-top: 11rem;
+    margin-top: 14rem;
   }
 
   .about__me {

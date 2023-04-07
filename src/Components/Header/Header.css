@@ -1,8 +1,3 @@
-/* .header {
-  height: 100vh;
-  padding-top: 7rem;
-  overflow: hidden;
-} */
 .header__top {
   height: 7rem;
 }
@@ -12,6 +7,7 @@
 }
 
 .header__container {
+  margin-top: 1rem;
   text-align: center;
   height: 100%;
   position: relative;
@@ -46,12 +42,10 @@
 /* =========== ME ============== */
 .header__container .me {
   background: linear-gradient(var(--color-primary), transparent);
-  width: 28rem;
-  height: 30rem;
-  /* position: absolute;
-  left: calc(50% - 14rem); */
-  margin: 4rem auto 0 auto;
-  border-radius: 12rem 12rem 0 0;
+  width: 11rem;
+  height: 11rem;
+  margin: 4rem auto 2.5rem;
+  border-radius: 200px;
   overflow: hidden;
 }
 
@@ -78,7 +72,7 @@
   }
 
   .header__container .me {
-    width: 100%;
+    /* width: 100%; */
   }
 
   .header__socials,

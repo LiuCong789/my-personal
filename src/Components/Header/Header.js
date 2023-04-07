@@ -1,11 +1,16 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
 import "./Header.css";
 import CTA from "./CTA";
 import hero from "../../Assets/profile-cody-transparent.png";
 import HeaderSocials from "./HeaderSocials";
 import mp3 from "../../Assets/summer.mp3";
+import TypingEffect from "./TypyingEffect";
+
+// const words = ["CONG LIU", "Front-End Engineer"];
 
 const Header = () => {
+  const messages = ["CONG LIU", "Front-End Engineer"];
+
   return (
     <header className="header">
       <div className="header__top">
@@ -15,15 +20,14 @@ const Header = () => {
         </audio>
       </div>
       <div className="container header__container">
-        <h4>Hello, I'm</h4>
-        <h1>Cong Liu</h1>
-        <h4 className="text-light">Frontend (React) Developer</h4>
-        <CTA />
-        <HeaderSocials />
-
         <div className="me">
           <img src={hero} alt="me" />
         </div>
+
+        <h4>Hello, I'm</h4>
+        <TypingEffect messages={messages} />
+        <CTA />
+        <HeaderSocials />
 
         <a href="#contact" className="scroll__down">
           Scroll Down

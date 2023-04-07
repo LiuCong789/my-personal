@@ -48,6 +48,8 @@
 
 .tags__container {
   margin-bottom: 2rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 
 .tag-list {

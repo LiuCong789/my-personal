@@ -8,6 +8,7 @@ import IMG5 from "../../Assets/portfolio-image-5.jpg";
 import IMG6 from "../../Assets/portfolio-image-6.jpg";
 import IMG7 from "../../Assets/portfolio-image-7.jpg";
 import IMG8 from "../../Assets/portfolio-image-8.jpg";
+import IMG9 from "../../Assets/portfolio-image-9.jpg";
 
 const data = [
   {
@@ -47,20 +48,27 @@ const data = [
   },
   {
     id: 6,
+    image: IMG9,
+    title: "Robot Friends",
+    host: "https://master.dl3qkqq7mz3y4.amplifyapp.com/",
+    tags: ["React"],
+  },
+  {
+    id: 7,
     image: IMG6,
     title: "Drum Kit",
     host: "https://drum-congliu.netlify.app/",
     tags: ["JavaScript"],
   },
   {
-    id: 7,
+    id: 8,
     image: IMG7,
     title: "Guess My Number",
     host: "https://guess-congliu.netlify.app/",
     tags: ["JavaScript"],
   },
   {
-    id: 8,
+    id: 9,
     image: IMG8,
     title: "My Own Website",
     host: "https://liucong789.github.io/my-personal/",
